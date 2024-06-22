@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/iste-eaque-voluptates-itaque",
-  "version": "5.1.47",
+  "version": "5.1.48",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -675,5 +675,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/iste-eaque-voluptates-itaque/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
